@@ -101,13 +101,14 @@
 }
 
 .aligned-text_center {
-  margin-top: -10px;
   text-align: center;
+  margin-top: -10px;
+  margin-bottom:50px;
 }
 
 .aligned-text_right {
-  margin-top: -10px;
   text-align: right;
+  margin-top: -10px;
 }
 
 .cover__description {
